@@ -1,6 +1,5 @@
 # hidden files
-.*
-
+.circleci
 # Vagrant
 Vagrantfile
 
